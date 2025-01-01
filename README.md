@@ -25,7 +25,7 @@ A sophisticated IRC bot powered by Mistral AI that provides intelligent chat ass
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/YOUR_ORG_NAME/mistralbot.git
+git clone https://github.com/MansionNET/mistralbot.git
 cd mistralbot
 ```
 
