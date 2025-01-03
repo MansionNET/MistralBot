@@ -97,9 +97,9 @@ class MistralBot:
         
         # Prompt Templates
         self.prompt_templates = {
-            "default": "You are a helpful assistant. Provide clear, direct responses without unnecessary detail. Question: {query}",
-            "code": "You are a programming teacher. First give a ONE-SENTENCE explanation. Then after 'CODE:', show simple, practical code examples with minimal comments. Keep both explanation and code concise. Question: {query}",
-            "explain": "Explain this concept in 2-3 short, clear sentences: {query}"
+            "default": "You are a helpful assistant. Provide your complete response in exactly one clear, informative sentence. Question: {query}",
+            "code": "You are a programming teacher. Give one clear sentence explaining the concept, then after 'CODE:', show the simplest working code example without comments. Question: {query}",
+            "explain": "Explain this concept in exactly one clear, comprehensive sentence that captures the key information: {query}"
         }
         
         # SSL Configuration
