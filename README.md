@@ -1,3 +1,16 @@
+> # ⚠️ This repository has moved
+>
+> **MistralBot** is now developed at **[git.inthemansion.com/MansionNET/MistralBot](https://git.inthemansion.com/MansionNET/MistralBot)**.
+>
+> This GitHub copy is **archived and read-only** — it will not receive further updates.
+> Please update your remotes:
+>
+> ```
+> git remote set-url origin git@git.inthemansion.com:MansionNET/MistralBot.git
+> ```
+
+---
+
 # MistralBot
 
 A sophisticated IRC bot powered by Mistral AI that provides intelligent chat assistance and code help. MistralBot brings the power of large language models to IRC channels through a simple interface.
